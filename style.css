@@ -1,0 +1,25 @@
+.countryflag{
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(219, 85, 159);
+    text-align: center;
+}
+
+#topic{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: blue;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.grid{
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+}
+
+
